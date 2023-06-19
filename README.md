@@ -5,5 +5,5 @@
 - 📚 I'm currently studying Web Applications development.
 - 🤔 I’m looking for help with your business or ideas!
 - 💬 Ask me about any languaje program 😁
-- - 📫 How to reach me: alejandrobueno92@hotmail.com
+- 📫 How to reach me: alejandrobueno92@hotmail.com
 
