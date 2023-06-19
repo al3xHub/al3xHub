@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some personal projects.
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS, SQL, noSQL, SEM, SEO, Wordpress, more and more...
 - 📚 I'm currently studying Web Applications development.
-- 🤔 I’m looking for help with your business or ideas!
+- 🤔 Are you looking for help with your business or ideas? Let me know!
 - 💬 Ask me about any languaje program 😁
 - 📫 How to reach me: alejandrobueno92@hotmail.com
 
