@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Alejandro!
 
 - 🔭 I’m currently working on some personal projects.
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS, SQL, noSQL, SEM, SEO, Wordpress, more and more...
