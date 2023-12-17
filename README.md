@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Alejandro!
 
 - 🔭 I’m currently working on some personal projects.
-- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, SQL, noSQL, SEO, Wordpress etc...
+- 🌱 I’m currently learning Java, JavaScript (node.js, angular), html & CSS (Boostrap), PHP, Python and more...
 - 📚 I'm currently studying Web Applications Development.
 - 🤔 Are you looking for help with your business or ideas? Let me know!
 - 💬 Ask me about any languaje program 😁
